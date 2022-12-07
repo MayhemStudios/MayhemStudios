@@ -1,5 +1,13 @@
 ### Hi there 👋, I'm Mayhem/Andrew
 
+---
+
+<h3 align=center>Hello There!</h3>
+<h3 align=center>If you want to show some love and support me</h3>
+<h3 align=center>You can join the discord by clicking the link below</h3>
+<h3 align=center>And if you love my work, show some support by staring some repositories.</h3>
+
+---
 Join my Community Discord by Clicking the Link below.
 
 [![Development Hub](https://img.shields.io/badge/Click%20To%20Join-Mayhem's%20Development%20Hub-critical?style=for-the-badge)](https://discord.gg/ZjSEW4F7ZQ)
