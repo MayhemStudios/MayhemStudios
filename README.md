@@ -5,7 +5,7 @@ I am a 16 year old australian developer born on the 30th of April 2006. I love t
 
 ---
 
-#### My Tools
+#### Languages & Tools
 ![Lua](https://img.shields.io/badge/Language-Lua-critical?style=for-the-badge)&nbsp;
 ![Markdown](https://img.shields.io/badge/Language-Markdown-critical?style=for-the-badge)&nbsp;
 ![MySQL](https://img.shields.io/badge/Language-MySQL-critical?style=for-the-badge)&nbsp;
