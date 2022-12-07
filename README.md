@@ -6,8 +6,8 @@ Join my Community Discord by Clicking the Link below.
 
 
 ### Mayhem's Quick Links
-[![Mayhem's Store](https://img.shields.io/badge/Link-Mayhem's%20Development%20Store-purple?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mayhemdevelopment.tebex.io)
-[![Mayhems Docs](https://img.shields.io/badge/Link-Mayhem's%20Development%20Docs-purple?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mayhemdevelopment.gitbook.io/mayhem-development-docs)
+[![Mayhem's Store](https://img.shields.io/badge/Link-Mayhem's%20Development%20Store-purple?style=for-the-badge&logo=google-chrome)](https://mayhemdevelopment.tebex.io)
+[![Mayhems Docs](https://img.shields.io/badge/Link-Mayhem's%20Development%20Docs-purple?style=for-the-badge&logo=google-chrome)](https://mayhemdevelopment.gitbook.io/mayhem-development-docs)
 
 ### About Me
 I am a 16 year old australian developer born on the 30th of April 2006. I love to create FiveM resources and publish them for the community to enjoy. I was born in Queensland, Australia.
