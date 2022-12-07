@@ -17,18 +17,18 @@ Join my Community Discord by Clicking the Link below.
 ### About Me
 I am a 16 year old australian developer born on the 30th of April 2006. I love to create FiveM resources and publish them for the community to enjoy. I was born in Queensland, Australia.
 
-#### Languages & Tools
-![Lua](https://img.shields.io/badge/Language-Lua-critical?style=for-the-badge)&nbsp;
-![Markdown](https://img.shields.io/badge/Language-Markdown-critical?style=for-the-badge)&nbsp;
-![MySQL](https://img.shields.io/badge/Language-MySQL-critical?style=for-the-badge)&nbsp;
-![HTML](https://img.shields.io/badge/Language-HTML-critical?style=for-the-badge)&nbsp;
-![CSS](https://img.shields.io/badge/Language-CSS-critical?style=for-the-badge)&nbsp;
-![C](https://img.shields.io/badge/Language-C-critical?style=for-the-badge)&nbsp;
-![Python](https://img.shields.io/badge/Language-Python-critical?style=for-the-badge)&nbsp;
-![C++](https://img.shields.io/badge/Language-C++-critical?style=for-the-badge)&nbsp;
-![JavaScript](https://img.shields.io/badge/Language-JavaScript-critical?style=for-the-badge)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=for-the-badge)&nbsp;
-![Notepad++](https://img.shields.io/badge/IDE-Notepad++-blue?style=for-the-badge)&nbsp;
+<h5 align=center>Coding Languages</h5>
+<h5 align=center>![Lua](https://img.shields.io/badge/Language-Lua-critical?style=for-the-badge)</h5>&nbsp;
+<h5 align=center>![Markdown](https://img.shields.io/badge/Language-Markdown-critical?style=for-the-badge)</h5>&nbsp;
+<h5 align=center>![MySQL](https://img.shields.io/badge/Language-MySQL-critical?style=for-the-badge)</h5>&nbsp;
+<h5 align=center>![HTML](https://img.shields.io/badge/Language-HTML-critical?style=for-the-badge)</h5>&nbsp;
+<h5 align=center>![CSS](https://img.shields.io/badge/Language-CSS-critical?style=for-the-badge)</h5>&nbsp;
+<h5 align=center>![C](https://img.shields.io/badge/Language-C-critical?style=for-the-badge)</h5>&nbsp;
+<h5 align=center>![Python](https://img.shields.io/badge/Language-Python-critical?style=for-the-badge)</h5>&nbsp;
+<h5 align=center>![C++](https://img.shields.io/badge/Language-C++-critical?style=for-the-badge)</h5>&nbsp;
+<h5 align=center>![JavaScript](https://img.shields.io/badge/Language-JavaScript-critical?style=for-the-badge)</h5>&nbsp;
+<h5 align=center>![Visual Studio Code](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=for-the-badge)</h5>&nbsp;
+<h5 align=center>![Notepad++](https://img.shields.io/badge/IDE-Notepad++-blue?style=for-the-badge)</h5>&nbsp;
 
 ### Currently Focusing On
 ![Athena Framework](https://img.shields.io/badge/Resource-Athenas%20Framework-blue?style=for-the-badge)&nbsp;
