@@ -17,7 +17,7 @@ Join my Community Discord by Clicking the Link below.
 ### About Me
 I am a 16 year old australian developer born on the 30th of April 2006. I love to create FiveM resources and publish them for the community to enjoy. I was born in Queensland, Australia.
 
-<h5 align="center">
+[<h5 align="center">
   ![Lua](https://img.shields.io/badge/Language-Lua-critical?style=for-the-badge)
   ![Markdown](https://img.shields.io/badge/Language-Markdown-critical?style=for-the-badge)
   ![MySQL](https://img.shields.io/badge/Language-MySQL-critical?style=for-the-badge)
