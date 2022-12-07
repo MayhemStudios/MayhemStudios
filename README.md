@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, I'm Mayhem/Andrew
 
-<!--
-**MayhemStudios/MayhemStudios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+I am a 16 year old australian developer born on the 30th of April 2006. I love to create FiveM resources and publish them for the community to enjoy. I was born in Queensland, Australia.
 
-Here are some ideas to get you started:
+### My coding languages & developmental tools.
+![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua)&nbsp;
+![Markdown](https://img.shields.io/badge/-markdown-333333?style=flat&logo=markdown)&nbsp;
+![MYSQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)&nbsp;
+<img align="right" height="60" width="60" alt="" src="https://cdn.discordapp.com/attachments/756590322921767002/810784341286060062/2314.gif" />
+[Visual Studio Code](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-17a6ec?style=for-the-badge)
+[Notepad++](https://img.shields.io/badge/IDE-Notepad++-17a6ec?style=for-the-badge)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
