@@ -11,7 +11,6 @@ I am a 16 year old australian developer born on the 30th of April 2006. I love t
 ![MySQL](https://img.shields.io/badge/Language-MySQL-critical?style=for-the-badge)&nbsp;
 ![HTML](https://img.shields.io/badge/Language-HTML-critical?style=for-the-badge)&nbsp;
 ![CSS](https://img.shields.io/badge/Language-CSS-critical?style=for-the-badge)&nbsp;
----
 ![Visual Studio Code](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=for-the-badge)&nbsp;
 ![Notepad++](https://img.shields.io/badge/IDE-Notepad++-blue?style=for-the-badge)&nbsp;
 
