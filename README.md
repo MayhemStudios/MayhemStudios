@@ -1,5 +1,9 @@
 ### Hi there 👋, I'm Mayhem/Andrew
 
+Join my Community Discord by Clicking the Link below.
+
+[![Development Hub](https://img.shields.io/badge/Click%20To%20Join-Mayhem's%20Development%20Hub-blue?style=for-the-badge)](https://discord.gg/ZjSEW4F7ZQ)
+
 ### About Me
 I am a 16 year old australian developer born on the 30th of April 2006. I love to create FiveM resources and publish them for the community to enjoy. I was born in Queensland, Australia.
 
