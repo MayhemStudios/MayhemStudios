@@ -53,8 +53,8 @@ I am a boy that loves to help out others, give others the respect, love, and att
 ---
 ### My Github Statistics.
 <a href="https://github.com/MayhemStudios">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mayhemstudios&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mayhemstudios&layout=compact&langs_count=8&theme=react"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MayhemStudios&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MayhemStudios&layout=compact&langs_count=8&theme=react"/>
 </a>
 
 </div>
