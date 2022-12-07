@@ -2,7 +2,7 @@
 
 ---
 
-<h3 align=center>Show some ❤️‍🔥 by join the discord!</h3>
+<h3 align=center>Show some ❤️‍🔥 by joining the discord!</h3>
 
 ---
 Join my Community Discord by Clicking the Link below.
