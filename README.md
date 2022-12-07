@@ -2,10 +2,10 @@
 
 ---
 
-<h6 align=center>Hello There!</h6>
-<h3 align=center>If you want to show some love and support me</h3>
-<h3 align=center>You can join the discord by clicking the link below</h3>
-<h3 align=center>And if you love my work, show some support by staring some repositories.</h3>
+<h6 align=center>Hello There!</h6>&nbsp;
+<h6 align=center>If you want to show some love and support me</h6>&nbsp;
+<h6 align=center>You can join the discord by clicking the link below</h6>&nbsp;
+<h6 align=center>And if you love my work, show some support by staring some repositories.</h6>&nbsp;
 
 ---
 Join my Community Discord by Clicking the Link below.
