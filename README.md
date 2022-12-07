@@ -13,7 +13,7 @@ I am a 16 year old australian developer born on the 30th of April 2006. I love t
 ![Notepad++](https://img.shields.io/badge/IDE-Notepad++-blue?style=for-the-badge)&nbsp;
 
 ### Currently Focusing On
-![Athena Framework](https://img.shields.io/badge/Resource-Athenas%20Framework-blue&logo=snowflake?style=for-the-badge)&nbsp;
+![Athena Framework](https://img.shields.io/badge/Resource-Athenas%20Framework-blue?style=for-the-badge)&nbsp;
 
 ---
 ### My Github Statistics.
