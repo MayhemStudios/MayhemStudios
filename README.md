@@ -17,18 +17,18 @@ Join my Community Discord by Clicking the Link below.
 ### About Me
 I am a 16 year old australian developer born on the 30th of April 2006. I love to create FiveM resources and publish them for the community to enjoy. I was born in Queensland, Australia.
 
-<h5 align=center>Coding Languages</h5>
-<h5 align=center>![Lua](https://img.shields.io/badge/Language-Lua-critical?style=for-the-badge)</h5>&nbsp;
-<h5 align=center>![Markdown](https://img.shields.io/badge/Language-Markdown-critical?style=for-the-badge)</h5>&nbsp;
-<h5 align=center>![MySQL](https://img.shields.io/badge/Language-MySQL-critical?style=for-the-badge)</h5>&nbsp;
-<h5 align=center>![HTML](https://img.shields.io/badge/Language-HTML-critical?style=for-the-badge)</h5>&nbsp;
-<h5 align=center>![CSS](https://img.shields.io/badge/Language-CSS-critical?style=for-the-badge)</h5>&nbsp;
-<h5 align=center>![C](https://img.shields.io/badge/Language-C-critical?style=for-the-badge)</h5>&nbsp;
-<h5 align=center>![Python](https://img.shields.io/badge/Language-Python-critical?style=for-the-badge)</h5>&nbsp;
-<h5 align=center>![C++](https://img.shields.io/badge/Language-C++-critical?style=for-the-badge)</h5>&nbsp;
-<h5 align=center>![JavaScript](https://img.shields.io/badge/Language-JavaScript-critical?style=for-the-badge)</h5>&nbsp;
-<h5 align=center>![Visual Studio Code](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=for-the-badge)</h5>&nbsp;
-<h5 align=center>![Notepad++](https://img.shields.io/badge/IDE-Notepad++-blue?style=for-the-badge)</h5>&nbsp;
+Coding Languages
+![Lua](https://img.shields.io/badge/Language-Lua-critical?style=for-the-badge)
+![Markdown](https://img.shields.io/badge/Language-Markdown-critical?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/Language-MySQL-critical?style=for-the-badge)
+![HTML](https://img.shields.io/badge/Language-HTML-critical?style=for-the-badge)
+![CSS](https://img.shields.io/badge/Language-CSS-critical?style=for-the-badge)
+![C](https://img.shields.io/badge/Language-C-critical?style=for-the-badge)
+>![Python](https://img.shields.io/badge/Language-Python-critical?style=for-the-badge)
+![C++](https://img.shields.io/badge/Language-C++-critical?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/Language-JavaScript-critical?style=for-the-badge)
+![Visual Studio Code](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=for-the-badge)
+![Notepad++](https://img.shields.io/badge/IDE-Notepad++-blue?style=for-the-badge)
 
 ### Currently Focusing On
 ![Athena Framework](https://img.shields.io/badge/Resource-Athenas%20Framework-blue?style=for-the-badge)&nbsp;
@@ -38,6 +38,6 @@ I am a 16 year old australian developer born on the 30th of April 2006. I love t
 <p align="left">
 <a href="https://github.com/MayhemStudios">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mayhemstudios&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mayhem&layout=compact&langs_count=8&theme=react"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mayhemstudios&layout=compact&langs_count=8&theme=react"/>
 </a>
 </p>
